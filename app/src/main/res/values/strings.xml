@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">FC Barcelona Players</string>
+    <string-array name="player_name">
+        <item>Ter Stegen</item>
+        <item>Neto</item>
+        <item>Jordi Alba</item>
+        <item>Junior Firpo</item>
+        <item>Sergi Roberto</item>
+        <item>Nelson Semedo</item>
+        <item>Clement Lenglet</item>
+        <item>Gerard Pique</item>
+        <item>Samuel Umtiti</item>
+        <item>Sergio Busquets</item>
+        <item>De Jong</item>
+        <item>Arthur</item>
+        <item>Arturo Vidal</item>
+        <item>Ivan Rakitic</item>
+        <item>Lionel Messi</item>
+        <item>Luis Suarez</item>
+        <item>Antoine Griezmann</item>
+        <item>Ousmane Dembele</item>
+        <item>Martin Braithwaite</item>
+    </string-array>
+
+    <string-array name="position">
+        <item>Goalkeeper</item>
+        <item>Goalkeeper</item>
+        <item>Defender</item>
+        <item>Defender</item>
+        <item>Defender</item>
+        <item>Defender</item>
+        <item>Defender</item>
+        <item>Defender</item>
+        <item>Defender</item>
+        <item>Midfielder</item>
+        <item>Midfielder</item>
+        <item>Midfielder</item>
+        <item>Midfielder</item>
+        <item>Midfielder</item>
+        <item>Forward</item>
+        <item>Forward</item>
+        <item>Forward</item>
+        <item>Forward</item>
+        <item>Forward</item>
+    </string-array>
+</resources>
